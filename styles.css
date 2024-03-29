@@ -1,0 +1,59 @@
+.sidenav {
+    height: 80%;
+    width: 350px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-image: url(img/kahoy.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border:none;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+
+body{
+    background-image: url(img/pogi\ .png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.health{
+    margin-left: 15vw;
+    text-size-adjust: 50%;
+}
+
+.plimg img{
+    position:fixed;
+    width: 25vw;
+    height: 25vw;
+    right: 42vw;
+}
+
+.zomimg img{
+    position:fixed;
+    width: 25vw;
+    height: 25vw;
+    left: 63vw;
+    top: 98px;
+}
+
+
+  .box {
+    background-color: beige;
+    position: fixed;
+    width: 15vw;
+    height: 5vw;
+    border: 10px solid green;
+    margin: 15px;
+    left:400px;
+    top:400px;
+    
+  }
+
+  
